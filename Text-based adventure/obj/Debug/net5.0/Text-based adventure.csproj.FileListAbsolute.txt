@@ -1,0 +1,15 @@
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\bin\Debug\net5.0\Text-based adventure.exe
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\bin\Debug\net5.0\Text-based adventure.deps.json
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\bin\Debug\net5.0\Text-based adventure.runtimeconfig.json
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\bin\Debug\net5.0\Text-based adventure.runtimeconfig.dev.json
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\bin\Debug\net5.0\Text-based adventure.dll
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\bin\Debug\net5.0\Text-based adventure.pdb
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\obj\Debug\net5.0\Text-based adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\obj\Debug\net5.0\Text-based adventure.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\obj\Debug\net5.0\Text-based adventure.AssemblyInfo.cs
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\obj\Debug\net5.0\Text-based adventure.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\obj\Debug\net5.0\Text-based adventure.dll
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\obj\Debug\net5.0\refint\Text-based adventure.dll
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\obj\Debug\net5.0\Text-based adventure.pdb
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\obj\Debug\net5.0\Text-based adventure.genruntimeconfig.cache
+C:\Users\willi\source\repos\School work\Text-based adventure\Text-based adventure\obj\Debug\net5.0\ref\Text-based adventure.dll

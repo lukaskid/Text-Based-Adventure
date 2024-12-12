@@ -1,0 +1,15 @@
+<Axe>
+Name: Axe
+Description: A sharp tool for chopping wood.
+
+<Lantern>
+Name: Lantern
+Description: A source of light for dark places.
+
+<GoldCoin>
+Name: Gold Coin
+Description: A shiny gold coin.
+
+<NPC_Villager>
+Name: Villager
+Description: A friendly villager who looks eager to help.
